@@ -1,0 +1,8 @@
+jovian==0.2.41
+kaggle==1.5.12
+numpy==1.22.4
+matplotlib==3.5.2
+opendatasets==0.1.22
+pandas==1.4.2
+regex==2022.3.2
+seaborn==0.11.2
